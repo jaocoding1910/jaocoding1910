@@ -51,25 +51,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:8b5cf6,50:ec4899,100:f97316" />
 </p>
 
-## 📊 GitHub Stats
+## 🧠 Tech Focus & Roadmap
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jaocoding1910&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub stats"
-  />
+  <img src="https://img.shields.io/badge/Python-90%25-0b0f19?style=for-the-badge&logo=python&logoColor=ffd43b" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=jaocoding1910&theme=tokyonight&hide_border=true" 
-    alt="GitHub streak"
-  />
+  <img src="https://img.shields.io/badge/Pandas-80%25-0b0f19?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/FastAPI-70%25-0b0f19?style=for-the-badge&logo=fastapi&logoColor=00c7b7" />
+  <img src="https://img.shields.io/badge/Streamlit-65%25-0b0f19?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoding1910&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top languages"
-  />
+  <img src="https://img.shields.io/badge/SQL-Learning-0b0f19?style=for-the-badge&logo=postgresql&logoColor=3b82f6" />
+  <img src="https://img.shields.io/badge/Docker-Next-0b0f19?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
+
+<p align="center">
+  <sub>📌 Percentages represent current focus level and active learning roadmap.</sub>
+</p>
+
