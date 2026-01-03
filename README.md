@@ -52,15 +52,25 @@
 </p>
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaocoding1910&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoding1910&layout=compact&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jaocoding1910&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaocoding1910&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=jaocoding1910&theme=tokyonight&hide_border=true" 
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:3b82f6,100:8b5cf6" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoding1910&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top languages"
+  />
 </p>
